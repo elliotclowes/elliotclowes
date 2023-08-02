@@ -1,0 +1,1 @@
+**Hi there! I'm Elliot.** I have a background in management. But currently I am transforming my lifelong passion of technology into a career and am a Tech Trainee at [La Fosse Academy](https://www.lafosseacademy.com/).
