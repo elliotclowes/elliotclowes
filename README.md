@@ -1,4 +1,4 @@
-**Hi there! I'm Elliot.** I am currently transforming my lifelong passion of technology into a career and am a Tech Trainee at [La Fosse Academy](https://www.lafosseacademy.com/). I'm graduting at the end of August and am looking for a role in tech.
+**Hi there! I'm Elliot.** I am currently transforming my lifelong passion of technology into a career and am a Tech Trainee at [La Fosse Academy](https://www.lafosseacademy.com/). I'm graduting at the end of August and am actively looking for a role in tech.
 
 More about me:
  - [CV](https://github.com/elliotclowes/elliotclowes/blob/main/LFA-CV.pdf) (pdf)
