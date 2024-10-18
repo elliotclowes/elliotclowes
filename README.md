@@ -8,4 +8,3 @@ Elsewhere:
  - [General blog – blot.blot](https://blot.blog)
  - [Tumblelog – elliot.my](http://elliot.my)
  - [My Online Notes – learnt.me](https://learnt.me)
- - [CV](https://github.com/elliotclowes/elliotclowes/blob/main/LFA-CV.pdf) (pdf) (currently outdated)
