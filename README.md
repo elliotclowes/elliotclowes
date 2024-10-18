@@ -2,7 +2,7 @@
 
 **Hi there! I'm Elliot.** I am currently a Business Analyst at [News UK](https://news.co.uk/).
 
-More about me:
+Elsewhere:
  - [Homepage – clowes.me](https://clowes.me)
  - [Tech blog – imlefthanded.com](https://imlefthanded.com)
  - [General blog – blot.blot](https://blot.blog)
