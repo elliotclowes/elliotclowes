@@ -1,4 +1,4 @@
-<img align="right" height="400" src="https://elliotclowes.com/cold/2024/me-elliot-clowes-memoji.png" />
+<img align="right" height="250" src="https://elliotclowes.com/cold/2024/me-elliot-clowes-memoji.png" />
 
 **Hi there! I'm Elliot.** I am currently a Business Analyst at [News UK](https://news.co.uk/).
 
